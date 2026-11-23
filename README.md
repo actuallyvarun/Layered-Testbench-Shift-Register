@@ -21,3 +21,7 @@ The testbench is divided into different blocks:
 
 ## Objective
 The main objective of this project is to understand how a layered testbench works and how different blocks are used to verify a sequential circuit.
+
+## Output 
+<img width="669" height="609" alt="image" src="https://github.com/user-attachments/assets/5d107425-5903-45af-b875-4ac4bd229b2d" />
+
